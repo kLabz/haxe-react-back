@@ -1,0 +1,18 @@
+{
+  "name": "react-back",
+  "description": "Back button handler for react",
+  "version": "0.1.0",
+  "releasenote": "Initial release",
+  "url": "https://github.com/kLabz/haxe-back",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "dependencies": {
+    "react-next": "",
+    "event-types": ""
+  },
+  "contributors": [
+    "klabz"
+  ]
+}
+
